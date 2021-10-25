@@ -35,13 +35,16 @@ button {
   font-weight: 900;
   font-size: large;
   }
+  button:hover{
+    background-color: rgb(219, 219, 219);
+  }
 .wrapper{
 width: 50%;
 padding :30px;
 margin: 0 auto;
 text-align: center;
 width: 30%;
-background-color: rgb(75, 112, 75);
+background-color: rgb(121, 156, 121);
 border-radius: 20px;
   }
   
